@@ -1,4 +1,4 @@
-# Myproject
+#my project 
 from ursina import *
 app=Ursina()
 speed=1
